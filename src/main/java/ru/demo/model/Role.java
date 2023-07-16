@@ -1,4 +1,4 @@
-package ru.alexeykedr.model;
+package ru.demo.model;
 
 import org.springframework.security.core.GrantedAuthority;
 import javax.persistence.*;

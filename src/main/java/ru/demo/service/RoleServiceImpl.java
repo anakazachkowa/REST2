@@ -1,7 +1,7 @@
-package ru.alexeykedr.service;
+package ru.demo.service;
 
-import ru.alexeykedr.DAO.RoleDAO;
-import ru.alexeykedr.model.Role;
+import ru.demo.DAO.RoleDAO;
+import ru.demo.model.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import javax.annotation.PostConstruct;

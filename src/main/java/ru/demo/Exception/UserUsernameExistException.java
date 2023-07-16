@@ -1,4 +1,4 @@
-package ru.alexeykedr.Exception;
+package ru.demo.Exception;
 
 import org.springframework.dao.DataIntegrityViolationException;
 

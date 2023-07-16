@@ -1,9 +1,9 @@
-package ru.alexeykedr.service;
+package ru.demo.service;
 
-import ru.alexeykedr.DAO.RoleDAO;
-import ru.alexeykedr.DAO.UserDAO;
-import ru.alexeykedr.model.Role;
-import ru.alexeykedr.model.User;
+import ru.demo.DAO.RoleDAO;
+import ru.demo.DAO.UserDAO;
+import ru.demo.model.Role;
+import ru.demo.model.User;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

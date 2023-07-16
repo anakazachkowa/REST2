@@ -1,6 +1,6 @@
-package ru.alexeykedr.DAO;
+package ru.demo.DAO;
 
-import ru.alexeykedr.model.Role;
+import ru.demo.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

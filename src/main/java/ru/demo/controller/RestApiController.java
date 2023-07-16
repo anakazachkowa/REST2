@@ -1,10 +1,10 @@
-package ru.alexeykedr.controller;
+package ru.demo.controller;
 
-import ru.alexeykedr.Exception.ExceptionInfo;
-import ru.alexeykedr.Exception.UserUsernameExistException;
-import ru.alexeykedr.model.User;
-import ru.alexeykedr.service.RoleService;
-import ru.alexeykedr.service.UserService;
+import ru.demo.Exception.ExceptionInfo;
+import ru.demo.Exception.UserUsernameExistException;
+import ru.demo.model.User;
+import ru.demo.service.RoleService;
+import ru.demo.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.support.DefaultMessageSourceResolvable;
 import org.springframework.http.HttpStatus;

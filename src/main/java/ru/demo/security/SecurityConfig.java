@@ -1,4 +1,4 @@
-package ru.alexeykedr.security;
+package ru.demo.security;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
